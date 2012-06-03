@@ -1,0 +1,210 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background	background-image: url"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pacl",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/titstagram/routes/titster.js",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/titstagram/app.js",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/titstagram/public/stylesheets/app.css",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/titstagram/views/index.ejs",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/titstagram/views/layout.ejs",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/titstagram/public/stylesheets/style.css",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/titstagram/package.json",
+		"/Users/ivancamilovasquez/Desktop/script.js",
+		"/Users/ivancamilovasquez/Desktop/frametest.html",
+		"/Users/ivancamilovasquez/Design/puntomob/Pétalos - Landing/stylesheets/app.css",
+		"/Users/ivancamilovasquez/Design/puntomob/Pétalos - Landing/index.html",
+		"/Users/ivancamilovasquez/Downloads/impressivewebs-HTML9-Responsive-Boilerstrap-js-123e170/README.md",
+		"/Users/ivancamilovasquez/Design/puntomob/Pétalos - Landing/humans.txt",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/ivanvasquez.co/index.html",
+		"/Users/ivancamilovasquez/Downloads/lxbarth-PuSHSubscriber-9206d8d/README.markdown",
+		"/Users/ivancamilovasquez/Downloads/participations20120409-1-40az9r.csv",
+		"/Users/ivancamilovasquez/Development/Projects/puntomob/ivanvasquez.co/css/bootstrap-responsive.css",
+		"/Users/ivancamilovasquez/Desktop/test.html",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/enter/custom/themes/responsive-enter/author.php",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/enter/custom/themes/responsive-enter/loop-listados.php",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/enter/build.xml",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/enter/custom/themes/responsive-enter/loop-author.php",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/enter/custom/plugins/json-api/readme.txt",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/enter/custom/plugins/json-api/json-api.php",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/enter/custom/plugins/json-api/tests/core.get_author_index-01.phpt",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/enter/custom/plugins/pushpress/send-ping.php",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/enter/custom/plugins/pushpress/class-pushpress.php",
+		"/Users/ivancamilovasquez/Development/Projects/plataforma/enter/custom/plugins/pushpress/pushpress.php",
+		"/Users/ivancamilovasquez/Desktop/test.json",
+		"/Users/ivancamilovasquez/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"a",
+			"w\n",
+			"$",
+			"$\n",
+			"$",
+			"\n",
+			"$",
+			"\\n",
+			"$",
+			"&equal;",
+			"=",
+			"../assets/js",
+			"Sociales",
+			"sociales",
+			"sociales_meta_",
+			"5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"w",
+			"$",
+			"&equal;",
+			"/js",
+			"Video",
+			"video",
+			"video_meta_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/ivancamilovasquez/Development/Projects/puntomob/ivanvasquez.co/ivanvasquez.co.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

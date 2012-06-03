@@ -1,0 +1,19 @@
+<!-- container -->
+	<div class="container">
+
+		<div class="row">
+			<img class="logoimage two columns" src="images/logo.png" alt="titstagram">
+			<h1 class="title ten columns">Get your instant dose of tits!</h2>
+			<hr />
+		</div>
+
+		<ul class="titlist block-grid four-up mobile">
+
+			<% for(var i=0; i<pics.length; i++) { %>
+			<li><img class="titimage" src="<%= pics[i].images.standard_resolution.url %>" alt="FOTO 1" /></li>
+
+			<% } %>
+		</ul>
+
+	</div>
+	<!-- container -->
